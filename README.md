@@ -16,16 +16,16 @@ Once you have executed the Gaussian process, you can check your results with our
 1. Open `FantasyGaussian.ipynb` 
 2. Execute `python playerGameData.py` to process historical player data.
 3. Launch `python playoffData.py` to process playoff data for the selected teams.
-4. Initiate `python line-upLP.py player_historical_info.csv sixGamePlayoffwindow.csv` to check your results with the linear optimizer.
+4. Initiate `python line-upLP.py player_historical_info.csv` and `sixGamePlayoffwindow.csv` to check your results with the linear optimizer.
 
 
 ## Requirements 
-- `Python 3.x`
-- `Numpy`
-- `Pandas`
-- `matplotlib`
-- `Scipy`
-- `pulp`
+- Python 3.x`
+- Numpy
+- Pandas
+- matplotlib
+- Scipy
+- pulp
 
 
 
