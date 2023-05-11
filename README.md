@@ -13,10 +13,8 @@ Once you have executed the Gaussian process, make sure to save the results. You 
 
 ## Running the Code
 
-1. Open `FantasyGaussian.ipynb` 
-2. Execute `playerGameData.csv` to process historical player data.
-3. Launch `playoffData.csv` to process playoff data for the selected teams.
-4. Initiate `line-upLP.ipynb` with `player_historical_info.csv` and `sixGamePlayoffwindow.csv` to check your results with the linear optimizer.
+1. Run `FantasyGaussian.ipynb`to process historical player data and playoff data for the selected teams.
+4. Run `line-upLP.ipynb` with `player_historical_info.csv` and `sixGamePlayoffwindow.csv` to check your results with the linear optimizer.
 
 
 ## Requirements 
