@@ -18,7 +18,7 @@ Once you have executed the Gaussian process, make sure to save the results. You 
 
 
 ## Requirements 
-- Python 3.x`
+- Python 3.9
 - Numpy
 - Pandas
 - matplotlib
