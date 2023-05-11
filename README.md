@@ -2,7 +2,7 @@
 
 ### DS 6410: Machine Learning II
 #### Final project
-#### Team: Jade Preston, Zack Jackoes, and Karolina Naranjo
+#### Team: Jade Preston, Zack Jacokes, and Karolina Naranjo
 
 This repository contains code for running a Gaussian process and linear optimization on fantasy basketball data. The data used in this repository is sourced from Kaggle and Yahoo Sports.
 
